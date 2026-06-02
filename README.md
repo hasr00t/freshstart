@@ -37,7 +37,7 @@ Python tools each get their own `.venv` inside the repo directory, so dependenci
 ## Usage
 
 ```bash
-sudo ./kali-setup.sh
+sudo ./setup.sh
 ```
 
 The script is idempotent: re-running it `git pull`s existing repos instead of re-cloning and skips work that's already done.
