@@ -1,4 +1,4 @@
-# kali-setup
+# setup
 
 Provision a fresh Kali Linux VM (built for Parallels) into a ready-to-use pentesting workstation with a single script. It updates the system, installs prerequisites, clones and auto-builds a curated set of offensive-security tools from GitHub, installs a handful of packages from `apt`, and sets up a few extras.
 
